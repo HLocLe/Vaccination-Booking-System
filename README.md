@@ -237,29 +237,9 @@ Chạy integration tests:
 - Kiểm tra expiration time
 - Xác nhận header Authorization đúng format: `Bearer <token>`
 
-## Contribution
-
-Nếu bạn muốn đóng góp cho dự án:
-
-1. Fork repository
-2. Tạo branch feature (`git checkout -b feature/AmazingFeature`)
-3. Commit changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to branch (`git push origin feature/AmazingFeature`)
-5. Mở Pull Request
-
-## License
-
-Dự án này chưa được gán license cụ thể. Để biết thêm chi tiết, vui lòng liên hệ tác giả.
-
 ## Author
 
 **HLocLe** - [GitHub Profile](https://github.com/HLocLe)
-
-## Support
-
-Nếu có câu hỏi hoặc gặp vấn đề, vui lòng:
-- Tạo [Issue](https://github.com/HLocLe/Vaccination-Booking-System/issues) trên GitHub
-- Liên hệ qua email hoặc message
 
 ## Changelog
 
@@ -271,8 +251,4 @@ Nếu có câu hỏi hoặc gặp vấn đề, vui lòng:
 - API documentation with Swagger/OpenAPI
 - MongoDB integration
 
----
 
-**Cập nhật lần cuối**: 11/05/2026
-
-Cảm ơn bạn đã sử dụng Hệ thống Đặt Lịch Tiêm Chủng!
